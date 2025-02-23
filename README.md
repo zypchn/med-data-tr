@@ -1,6 +1,6 @@
 # med-data-tr
 
-A set of dataset collections for the following purposes:
+A set of Turkish medical dataset collections for the following purposes:
 - LLM fine-tuning
 - LLM continued pretraining
 - LLM instruction tuning
