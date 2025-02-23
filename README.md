@@ -11,3 +11,5 @@ MedData_memorial : https://huggingface.co/datasets/zybchn/MedData-tr-1
 MedData_medicalpark : https://huggingface.co/datasets/zypchn/MedData-tr-2
 <br/>
 MedQuaD_small : https://huggingface.co/datasets/zypchn/MedQuAD_small
+<br/>
+Dergipark_Med : *soon*
